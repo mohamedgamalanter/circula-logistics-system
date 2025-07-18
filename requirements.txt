@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+Pillow
+gspread
+gspread_dataframe
+oauth2client
+openpyxl
